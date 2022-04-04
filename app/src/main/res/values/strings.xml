@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Olahraga</string>
+    <string name="Olahraga1">Basket</string>
+    <string name="Olahraga2">Sepak Bola</string>
+    <string name="Olahraga3">Tenis Meja</string>
+    <string name="Olahraga4">Tenis</string>
+    <string name="Olahraga5">Badminton</string>
+    <string name="Olahraga6">Voli</string>
+    <string name="Olahraga7">Futsal</string>
+    <string name="Olahraga8">Kasti</string>
+    <string name="Olahraga9">Softball</string>
+    <string name="Olahraga10">American Football</string>
+    <string name="Desk01">Basket adalah permainan olahraga bola besar</string>
+    <string name="Desk02">Sepak Bola adalah permainan olahraga bola besar</string>
+    <string name="Desk03">Tenis Meja adalah permainan olahraga bola kecil</string>
+    <string name="Desk04">Tenis adalah permainan olahraga bola Kecil</string>
+    <string name="Desk05">Badminton adalah permainan olahraga bola kecil</string>
+    <string name="Desk06">Voli adalah permainan olahraga bola Besar</string>
+    <string name="Desk07">Futsal adalah permainan olahraga bola besar</string>
+    <string name="Desk08">Kasti adalah permainan olahraga bola kecil</string>
+    <string name="Desk09">Softball adalah permainan olahraga bola kecil</string>
+    <string name="Desk10">American Football adalah permainan olahraga bola besar</string>
+
+</resources>
